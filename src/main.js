@@ -5,8 +5,9 @@ import router from "./router";
 // import store file
 import store from "./store/index";
 
-// import css file
+// import css files
 import "./assets/css/style.css";
+import "./assets/css/responsiveStyle.css";
 
 // Vuetify imports
 import "vuetify/styles";
